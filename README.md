@@ -1,6 +1,6 @@
 # This is still a work-in-progress, so there will be some bugs
 
-Suggestions? Add my discord
+Suggestions? Add my discord Nexonᵐᵖ⁵#1556
 # setup
 
 for basic setup:
