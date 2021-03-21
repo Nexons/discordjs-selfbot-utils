@@ -5,6 +5,8 @@ Suggestions? Add my discord Nexonᵐᵖ⁵#1556
 
 for basic setup:
 
+run: npm install node-fetch https
+
 drag the discordjs-selfbot-utils.js file into your main folder
 const toolbox = require('./discordjs-selfbot-utils.js) (or wherever this file is located)
 
